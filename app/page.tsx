@@ -69,7 +69,7 @@ const projects = [
 const skillGroups = [
   { title: "Frontend", icon: Code2, skills: ["HTML5", "CSS3", "JavaScript", "TypeScript", "React.js", "Next.js", "Tailwind CSS", "Bootstrap", "jQuery"] },
   { title: "Backend", icon: BriefcaseBusiness, skills: ["Node.js", "Express.js", "REST APIs", "PHP", "WordPress", , "Shopify"] },
-  { title: "Databases", icon: Database, skills: ["MongoDB", "MySQL", "PostgreSQL"] },
+  { title: "Databases", icon: Database, skills: ["MongoDB", "MySQL", "PostgreSQL" , "Chart.js","Recharts"] },
   { title: "Data & Analytics", icon: BarChart3, skills: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "SQL", "Power BI", "Tableau", "Excel"] },
   { title: "Tools & Workflow", icon: Sparkles, skills: ["Git", "GitHub", "Docker", "Jira", "Linux", "Cloudinary"] },
 ];
